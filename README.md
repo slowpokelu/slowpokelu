@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 🚀
 
-![Dev](https://c.tenor.com/zBc1XhcbTSoAAAAC/nyan-cat-rainbow.gif)
+![Dev](https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif)
 
 ### About Me
 - Self-taught developer and security enthusiast
