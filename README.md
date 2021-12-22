@@ -7,6 +7,8 @@
 - カイゼン x HHKB x doom emacs x lofi
 - Rust / Python / Lisp / Go
 - Most repos are private 🙈
+- Proficient PC Gamer
+- MtG / Boardgame & Anime Geek
 
 ### Some of my fav repos:
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome#readme)
@@ -27,7 +29,3 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef#readme)
 - [public-apis](https://github.com/public-apis/public-apis#readme)
 <!-- it's hard to forget org syntax.. [[link][description]] > [description](link) -->
-
-### Random facts
-- Proficient PC Gamer
-- MtG / Boardgame & Anime Geek
