@@ -1,4 +1,4 @@
-## Welcome to my GitHub 🚀
+## Welcome to my GitHub
 
 ![Dev](https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif)
 
