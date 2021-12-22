@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 🚀
 
-![Dev](https://c.tenor.com/K33MDwMai28AAAAd/nyochio-d4dj.gif)
+![Dev](https://c.tenor.com/7H9GzsK-BZgAAAAd/cowboy-bebop-anime.gif)
 
 ### About Me
 - Self-taught developer and security enthusiast
