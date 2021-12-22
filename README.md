@@ -1,24 +1,11 @@
 ## Welcome to my GitHub
 
-![Dev](https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif)
+![bonfire-to-rest-at](https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif)
 
 ### About Me
-- Self-taught developer and security enthusiast
+- Self-taught developer and security enthusiast based in Luxembourg
 - カイゼン x HHKB x doom emacs x lofi
 - ❤️ Rust / Python / Lisp / Go ❤️
-- god pc gamer
-- MtG & Boardgame Nerd
+- Proficient PC Gamer
+- MtG / Boardgame & Anime Nerd 
 
-
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
