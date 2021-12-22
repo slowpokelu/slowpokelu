@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 🚀
 
-![Dev](https://c.tenor.com/7H9GzsK-BZgAAAAd/cowboy-bebop-anime.gif)
+![Dev](https://c.tenor.com/zBc1XhcbTSoAAAAC/nyan-cat-rainbow.gif)
 
 ### About Me
 - Self-taught developer and security enthusiast
