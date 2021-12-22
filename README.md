@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 🚀
 
-![Dev](https://c.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)
+![Dev](https://c.tenor.com/K33MDwMai28AAAAd/nyochio-d4dj.gif)
 
 ### About Me
 - Self-taught developer and security enthusiast
