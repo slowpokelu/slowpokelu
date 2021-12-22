@@ -2,6 +2,12 @@
 
 ![bonfire-to-rest-at](https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif)
 
+### About Me
+- Self-taught developer and security enthusiast based in Luxembourg
+- カイゼン x HHKB x doom emacs x lofi
+- Rust / Python / Lisp / Go
+- Most repos are private 🙈
+
 ### Some of my fav repos:
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome#readme)
 - [rossant/awesome-math](https://github.com/rossant/awesome-math#readme)
@@ -21,12 +27,6 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef#readme)
 - [public-apis](https://github.com/public-apis/public-apis#readme)
 <!-- it's hard to forget org syntax.. [[link][description]] > [description](link) -->
-
-### About Me
-- Self-taught developer and security enthusiast based in Luxembourg
-- カイゼン x HHKB x doom emacs x lofi
-- Rust / Python / Lisp / Go
-- Most repos are private 🙈
 
 ### Random facts
 - Proficient PC Gamer
