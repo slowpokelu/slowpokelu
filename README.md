@@ -1,9 +1,17 @@
-### Hi there 👋
+## Welcome to my GitHub 🚀
+
+![Dev](https://c.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)
+
+### About Me
+- Self-taught developer and security enthusiast
+- カイゼン x HHKB x doom emacs x lofi
+- ❤️ Rust / Python / Lisp / Go ❤️
+- god pc gamer
+- MtG & Boardgame Nerd
+
+
 
 <!--
-**slowpokelu/slowpokelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
