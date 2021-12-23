@@ -5,10 +5,10 @@
 ### About Me
 - Self-taught developer and security enthusiast based in Luxembourg
 - カイゼン x HHKB x doom emacs x lofi
-- Rust / Python / Lisp / Go
-- Most repos are private 🙈
+- Python / Rust / Lisp / Go
 - Proficient PC Gamer
 - MtG / Boardgame & Anime Geek
+- Most repos are private 🙈
 
 ### Some of my fav repos:
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome#readme)
@@ -20,4 +20,4 @@
 - [python/cpython](https://github.com/python/cpython#readme)
 - [rust-lang/rust](https://github.com/rust-lang/rust#readme)
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university#readme)
-<!-- it's hard to forget org syntax.. [[link][description]] > [description](link) -->
+<!-- org > md ::: [[link][description]] > [description](link) -->
