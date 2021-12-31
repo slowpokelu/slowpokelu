@@ -1,6 +1,8 @@
 ## Welcome to my github 🚀
 
-![bonfire-to-rest-at](https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif)
+<!-- ![bonfire-to-rest-at](https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif) -->
+
+![Temple](https://c.tenor.com/GAbdIgkOH18AAAAd/wano-one-piece.gif)
 
 ### About Me
 - Self-taught developer and security enthusiast based in Luxembourg
