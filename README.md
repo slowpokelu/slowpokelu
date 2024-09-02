@@ -1,10 +1,18 @@
-## Hi there 👋
+## Welcome to my github 🚀
+
+![bonfire-to-rest-at](https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif)
+
+### About Me
+- Self-taught developer and security enthusiast based in Luxembourg / Tokyo
+- 改善 x HHKB x obsidian x lofi
+- Python / Rust / Lisp / Go
+- Colemak Mod-DH
+- Fluent in Luxembourgish, English, German and French
+- ~ N4 Japanese (only learning 漢字 and 文法)
+- [Steam Profile](https://steamcommunity.com/id/RealPackageManager/)
+- Most repos are private 🙈
 
 <!--
-**slowpokelu/slowpokelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
