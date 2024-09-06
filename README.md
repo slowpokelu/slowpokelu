@@ -6,7 +6,7 @@
 - Self-taught developer and security enthusiast based in Luxembourg / Tokyo
 - 改善 x HHKB x obsidian x lofi
 - Python / Rust / Lisp / Go
-- Colemak Mod-DH
+- Colemak Mod-DH ([monkeytype](https://monkeytype.com/profile/sl0w_c0lemak))
 - Fluent in Luxembourgish, English, German and French
 - ~ N4 Japanese (only learning 漢字 and 文法)
 - [Steam Profile](https://steamcommunity.com/id/RealPackageManager/)
