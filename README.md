@@ -8,7 +8,7 @@
 - Python / Rust / Lisp / Go
 - Colemak Mod-DH ([monkeytype](https://monkeytype.com/profile/sl0w_c0lemak))
 - Fluent in Luxembourgish, English, German and French
-- ~ N4 Japanese (only learning 漢字 and 文法)
+- ~ N3 Japanese (only learning 漢字 and 文法)
 - [Steam Profile](https://steamcommunity.com/id/RealPackageManager/)
 - [Website](https://slowpokelu.github.io/newmatrixvibes/)
 - Most repos are private 🙈
