@@ -1,25 +1,18 @@
 ## Welcome to my github 🚀
-
 ![bonfire-to-rest-at](https://c.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif)
 
 ### About Me
-- Self-taught developer and security enthusiast based in Luxembourg / Tokyo
-- 改善 x HHKB x obsidian x lofi
-- Python / Rust / Lisp / Go
-- Colemak Mod-DH ([monkeytype](https://monkeytype.com/profile/sl0w_c0lemak))
-- Fluent in Luxembourgish, English, German and French
-- ~ N3 Japanese (only learning 漢字 and 文法)
-- [Steam Profile](https://steamcommunity.com/id/RealPackageManager/)
-- [Website](https://slowpokelu.github.io/newmatrixvibes/)
-- Most repos are private 🙈
+Self-taught developer and security researcher based in Luxembourg / Tokyo
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Security research and offensive tool development
+- Python automation and system scripting
+- Linux administration and network configuration
+- Japanese proficiency development (technical reading, business communication)
+
+### Tech & Languages
+**Stack:** Python, Go, Rust  
+**Languages:** Luxembourgish, English, German, French, Japanese (fluent)  
+**Setup:** HHKB + Colemak Mod-DH ([typing stats](https://monkeytype.com/profile/sl0w_c0lemak))  
+
+Most repos are private 🙈
