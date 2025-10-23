@@ -8,11 +8,11 @@ Self-taught developer and security researcher based in Luxembourg / Tokyo
 - Security research and offensive tool development
 - Python automation and system scripting
 - Linux administration and network configuration
-- Japanese proficiency development (technical reading, business communication)
+- Intermediate Japanese proficiency
 
 ### Tech & Languages
 **Stack:** Python, Go, Rust  
-**Languages:** Luxembourgish, English, German, French, Japanese (fluent)  
+**Languages:** Luxembourgish, English, German, French, Japanese (intermediate)  
 **Setup:** HHKB + Colemak Mod-DH ([typing stats](https://monkeytype.com/profile/sl0w_c0lemak))  
 
 Most repos are private 🙈
